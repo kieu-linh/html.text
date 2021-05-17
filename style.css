@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.container{
+    width: 30cm;
+    height: 7.8cm;
+    margin-left: 4.5cm;
+    margin-right: 0;
+    background-color: red;
+    margin-top: 4cm;
+    padding-top: 0.3cm;
+}
+.bodymain-left{
+    width: 28.4cm;
+    height:7.5cm ;
+    background-color: red;
+    float: left;
+}
+.bodymain-esc{
+    width: 100%;
+    height: 1.5cm;
+}
+.bodymain-esc-1{
+    background-color: black;
+    color: aliceblue;
+    width: 1cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.bodymain-esc-cach{
+    width: 1cm;
+    height: 1cm;
+    float: left;
+    margin-left: 0.3cm;
+}
+.bodymain-esc-cach-2{
+        width: 0.5cm;
+        height: 1cm;
+        float: left;
+        margin-left: 0.3cm;
+}
+.bodymain-hang2{
+    width: 100%;
+    height: 1.2cm;
+}
+.bodymain-hang2-1{
+    background-color: black;
+    color: aliceblue;
+    width: 1cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.bodymain-hang2-2{
+    background-color: black;
+    color: aliceblue;
+    width: 3.9cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.bodymain-hang3{
+    width: 29cm;
+    height: 1.2cm;
+}
+.bodymain-hang3-tab{
+    background-color: black;
+    color: aliceblue;
+    width: 1.5cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.bodymain-hang3-chu{
+    background-color: black;
+    color: aliceblue;
+    width: 1cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.bodymain-hang3-1{
+    background-color: black;
+    color: aliceblue;
+    width: 2.1cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.bodymain-hang4{
+    width: 29cm;
+    height: 1.2cm;
+}
+.bodymain-hang4-cap{
+    background-color: black;
+    color: aliceblue;
+    width: 2cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.bodymain-hang4-en{
+    background-color: black;
+    color: aliceblue;
+    width: 2.9cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.bodymain-hang5{
+    width: 29cm;
+    height: 1.2cm;
+}
+.bodymain-hang5-ship{
+    background-color: black;
+    color: aliceblue;
+    width: 2.5cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.bodymain-hang5-ship2{
+    background-color: black;
+    color: aliceblue;
+    width: 3.7cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.bodymain-hang6{
+    width: 29cm;
+    height: 1.2cm;
+}
+.bodymain-hang6-ctrl{
+    background-color: black;
+    color: aliceblue;
+    width: 1.7cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.bodymain-hang6-khoangtrang{
+    background-color: black;
+    color: aliceblue;
+    width: 5.5cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.cach{
+    width: 0.1cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+}
+.muiten{
+    width: 1cm;
+    height: 1cm;
+    margin-left: 0.33cm;
+    float: left;
+}
+.trongvippro{
+    width: 3.6cm;
+    height: 1cm;
+    margin-left: 0.3cm;
+    float: left;
+    background-color:black;
+    float: left;
+    color: aliceblue;
+}
+.mot{
+    width: 1cm;
+    height: 1cm;
+    margin-left: 0.26cm;
+    float: left;
+    background-color: black;
+    color: aliceblue;
+}
+.khong{
+    width: 2.36cm;
+    height: 1cm;
+    margin-left: 0.26cm;
+    float: left;
+    background-color: black;
+    color: aliceblue;
+}
+.cong{
+    width: 1cm;
+    height: 2.2cm;
+    margin-left: 0.26cm;
+    float: left;
+    background-color: black;
+    color: aliceblue;
+    margin-top: 0.21cm;    
+}
+.enter{
+    width: 1cm;
+    height: 2.2cm;
+    margin-left: 0.26cm;
+    float: left;
+    background-color: black;
+    color: aliceblue;
+    margin-top: 0.21cm;    
+}
+.tru{
+    width: 1cm;
+    height: 1cm;
+    margin-left: 0.26cm;
+    float: left;
+    background-color: black;
+    color: aliceblue;
+    margin-top: 1.51cm;     
+}
+.bodymain-right{
+    width: 1.6cm;
+    height:7.5cm ;
+    background-color: red;
+    float: left;
+}
+p{
+    text-align: center;
+    padding-top: 10px;
+}
